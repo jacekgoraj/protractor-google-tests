@@ -1,0 +1,23 @@
+---
+- name: Go Google Page
+  uid: 29260602-297d-4a32-a1f4-e4e14e5e9d9d
+  parameters: []
+  body_hash: d1dc64a62a0bd05dabe0231e80b3d5c9
+- name: The result
+  uid: de76193c-8473-4462-8c5c-2710f2d0b76d
+  parameters:
+  - name: result
+  body_hash: 489f001d2228b50ec673c28ab9176313
+- name: Fill keyWord input
+  uid: 87c5167d-6415-4965-8b1f-8a903b7a8a0a
+  parameters:
+  - name: keyWord
+  body_hash: 130848c7c52f475ca639f3dd351a68d5
+- name: Click Search button
+  uid: 2e4e3ffb-6fb6-4c76-a2b8-82f2044fd2ee
+  parameters: []
+  body_hash: 03489b0b83af1966a951527f49deab2c
+- name: Click Lucky shot button
+  uid: 4cb95068-495b-47ba-9af9-47cd1c2501fe
+  parameters: []
+  body_hash: 031e065022d980945b6291ffff84ddcd
